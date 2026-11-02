@@ -1,0 +1,9 @@
+{
+    "liveServer.settings.port": 5503,
+     "editor.fontSize": 16,
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "javascript": "/usr/local/bin/node"
+    },
+    "chat.disableAIFeatures": true
+}
